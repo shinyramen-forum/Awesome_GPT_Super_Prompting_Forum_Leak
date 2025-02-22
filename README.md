@@ -41,6 +41,8 @@
 ## 🚨 Jailbreaks
 Explore techniques for bypassing restrictions on GPT models.
 
+
+- 🌟 | [ShinyRamen](https://shinyramen.io) - ShinyRamen Forum community focused on ChatGPT jailbreaks, hacks, bots and automation.
 - 🌟 | [r/ChatGPTJailbreak/](https://www.reddit.com/r/ChatGPTJailbreak/) - Reddit community focused on ChatGPT jailbreaks.
 - 🌟 | [elder-plinius/L1B3RT45](https://github.com/elder-plinius/L1B3RT45) - A repository for advanced jailbreak strategies.
 - 🔥 | [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) - A powerful tool for automated LLM fuzzing.
